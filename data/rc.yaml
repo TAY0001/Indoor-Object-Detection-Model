@@ -1,0 +1,6 @@
+path: dataset/rc
+train: train/images
+val: valid/images
+
+nc: 1
+names: ["rice cooker"]

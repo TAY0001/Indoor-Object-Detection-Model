@@ -1,0 +1,6 @@
+path: dataset/tv
+train: train/images
+val: valid/images
+
+nc: 1
+names: ["tv"]

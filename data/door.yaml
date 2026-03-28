@@ -1,0 +1,6 @@
+path: dataset/door1
+train: train/images
+val: valid/images
+
+nc: 1
+names: ["door"]

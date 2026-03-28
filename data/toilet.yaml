@@ -1,0 +1,6 @@
+path: dataset/toilet
+train: train/images
+val: valid/images
+
+nc: 1
+names: ["toilet"]
